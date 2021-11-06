@@ -1,0 +1,12 @@
+Tìm hiểu ELK
+Tích hợp vào microservice vào spring:
+Build microservice bọc nó lại, tuỳ biến giao diện
+Dùng mô hình data lake:
++ thông tin của nhiều người
++ search 
++ filter+matching
++ Phân tích thiết kế
++ Docker + Hello world + Tạo sản phẩm cơ bản nhất.
++ Các bước cài đặt + báo cáo.
++ Đọc log từ API.
++ Tìm hiểu thêm tài liệu.
