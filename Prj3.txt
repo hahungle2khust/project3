@@ -1,3 +1,7 @@
 Cơ sở lý thuyết
 Phân tích và thiết kế hệ thống
 
+Quản lý log
+
+Tìm hiểu lý thuyết về microservice.
+Triển khai với microservice.
